@@ -1,0 +1,6 @@
+model_checkpoint_path: "epoch39"
+all_model_checkpoint_paths: "epoch35"
+all_model_checkpoint_paths: "epoch36"
+all_model_checkpoint_paths: "epoch37"
+all_model_checkpoint_paths: "epoch38"
+all_model_checkpoint_paths: "epoch39"
